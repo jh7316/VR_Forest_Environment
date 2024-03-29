@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cow brown
+* source:	https://sketchfab.com/3d-models/cow-brown-29f7d53eae024e4d86d0d1360d32fa5d
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cow brown" (https://sketchfab.com/3d-models/cow-brown-29f7d53eae024e4d86d0d1360d32fa5d) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

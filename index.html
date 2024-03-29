@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+
+		<!-- p5 core library -->
+		<script src="https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.js"></script>
+
+		<!-- A-Frame core library -->
+		<script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+
+		<!-- AFrameP5 library -->
+		<script src="https://craignyu.github.io/aframep5/libraries/aframep5-v2.1.js"></script>
+
+		 <!-- the p5 sound library -->
+		 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/addons/p5.sound.min.js" integrity="sha512-WzkwpdWEMAY/W8WvP9KS2/VI6zkgejR4/KTxTl4qHx0utqeyVE0JY+S1DlMuxDChC7x0oXtk/ESji6a0lP/Tdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+		<!-- Your p5 Sketch -->
+		<script src="sketch.js"></script>
+
+		<script src="Boid.js"></script>
+		<script src="Cow.js"></script>
+
+	</head>
+	<body>
+
+		<!-- container to hold our VR scene -->
+		<a-scene id="VRScene">
+
+		  <!-- container to hold our assets -->
+		  <a-assets id="VRAssets">
+
+		<img src="images/dd.jpg" id="sky2">
+		<img src="images/rock.jpg" id="rock">
+		<img src="images/grass.png" id="grass">
+		<img src="images/fence.jpg" id="fence">
+		<img src="images/universe.jpg" id="universe">
+		<img src="images/path.jpg" id="path">
+
+        <!-- this single file points to a GLTF model -->
+
+				<a-asset-item id="tree_highpoly" src="images/Trees/tree_highpoly/scene.gltf"></a-asset-item>
+				<a-asset-item id="tree1" src="images/Trees/tree_lowpoly1/scene.gltf"></a-asset-item>
+				<a-asset-item id="tree2" src="images/Trees/tree_lowpoly2/scene.gltf"></a-asset-item>
+				<a-asset-item id="tree3" src="images/Trees/tree_lowpoly3/scene.gltf"></a-asset-item>
+				<a-asset-item id="rock" src="images/rock/scene.gltf"></a-asset-item>
+>
+
+				<a-asset-item id="fox" src="images/Animals/fox/scene.gltf"></a-asset-item>
+				<a-asset-item id="lion" src="images/Animals/lion/scene.gltf"></a-asset-item>
+				<a-asset-item id="gazelle" src="images/Animals/gazelle/scene.gltf"></a-asset-item>
+				<a-asset-item id="elk" src="images/Animals/elk/scene.gltf"></a-asset-item>
+				<a-asset-item id="bear" src="images/Animals/bear/scene.gltf"></a-asset-item>
+				<a-asset-item id="wolf" src="images/Animals/wolf/scene.gltf"></a-asset-item>
+
+				<a-asset-item id="eagle" src="images/Animals/eagle/scene.gltf"></a-asset-item>
+		  </a-assets>
+
+		</a-scene>
+
+	</body>
+</html>

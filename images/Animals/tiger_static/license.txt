@@ -1,0 +1,11 @@
+Model Information:
+* title:	Walking Tiger
+* source:	https://sketchfab.com/3d-models/walking-tiger-171f156e393b4bcca2837d077a46cb3a
+* author:	Nudelkulle (https://sketchfab.com/Nudelkulle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Walking Tiger" (https://sketchfab.com/3d-models/walking-tiger-171f156e393b4bcca2837d077a46cb3a) by Nudelkulle (https://sketchfab.com/Nudelkulle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

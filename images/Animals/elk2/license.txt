@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly Elk
+* source:	https://sketchfab.com/3d-models/low-poly-elk-57f6633a35ab48849bf08676ac88d8a9
+* author:	m.altay (https://sketchfab.com/altay16)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly Elk" (https://sketchfab.com/3d-models/low-poly-elk-57f6633a35ab48849bf08676ac88d8a9) by m.altay (https://sketchfab.com/altay16) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elephant
+* source:	https://sketchfab.com/3d-models/elephant-e0755e38063b4de0b152be78c6da99b5
+* author:	SDPM (https://sketchfab.com/sashtidharshanpm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elephant" (https://sketchfab.com/3d-models/elephant-e0755e38063b4de0b152be78c6da99b5) by SDPM (https://sketchfab.com/sashtidharshanpm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
